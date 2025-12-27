@@ -1,0 +1,13 @@
+{
+    "domain": "kiwik",
+    "name": "Kiwik Smart Lock",
+    "codeowners": [],
+    "config_flow": true,
+    "documentation": "https://github.com/your_username/kiwik_smart_lock",
+    "requirements": [
+        "websocket-client>=1.6.0",
+        "requests>=2.28.0"
+    ],
+    "iot_class": "cloud_push",
+    "version": "1.0.0"
+}
